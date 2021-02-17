@@ -1,0 +1,37 @@
+{ "Boston Red Sox":{
+    "Game One": [{"Last Game": "Boston Red Sox 3 - Atlanta Braves 10 (Lose)"
+    }],
+    "Game 2": [{"Two Games Ago": "Boston Red Sox 5 - Atlanta Braves 7 (Lose)"
+    }],
+    "Game 3": [{"Three Games Ago": "Boston Red Sox 2 - Toranto Blue Jays 6 (Lose)"
+    }],
+    "Game 4": [{"Four Games Ago": "Boston Red Sox 7 - Toranto Blue Jays 8 (Lose)"
+    }],
+    "Game 5": [{"Five Games Ago": "Boston Red Sox 3 - Toranto Blue Jays 2 (Victory)"
+    }]
+ },
+  "La Dodgers":{
+    "Game One": [{"Last Game": "LA Dodgers 3 - Tampa Bay Rays 1 (Victory)"
+    }],
+    "Game 2": [{"Two Games Ago": "LA Dodgers 4 - Tampa Bay Rays 2 (Victory)"
+    }],
+    "Game 3": [{"Three Games Ago": "LA Dodgers 7 - Tampa Bay Rays 8 (Lose)"
+    }],
+    "Game 4": [{"Four Games Ago": "LA Dodgers 6 - Tampa Bay Rays 2 (Victory)"
+    }],
+    "Game 5": [{"Five Games Ago": "LA Dodgers 4 - Tampa Bay Rays 6 (Lose)"
+    }]
+ },
+  "Pittsburg Pirates":{
+    "Game One": [{"Last Game": "Pittsburg Pirates 6 - Cleveland Indians 8 (Lose)"
+    }],
+    "Game 2": [{"Two Games Ago": "Pittsburg Pirates 8 - Cleveland Indians 0 (Victory)"
+    }],
+    "Game 3": [{"Three Games Ago": "Pittsburg Pirates 3 - Cleveland Indians 4 (Lose)"
+    }],
+    "Game 4": [{"Four Games Ago": "Pittsburg Pirates 7 - Chicago Cubs 0 (Victory)"
+    }],
+    "Game 5": [{"Five Games Ago": "Pittsburg Pirates 2 - Chicago Cubs 1 (Victory)"
+    }]
+ }
+}

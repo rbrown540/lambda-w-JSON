@@ -1,0 +1,37 @@
+{ "Boston Bruins":{
+    "Game One": [{"Last Game": "Boston Bruins 2 - Tampa Bay Lightning 3 (Lose)"
+    }],
+    "Game 2": [{"Two Games Ago": "Boston Bruins 1 - Tampa Bay Lightning 3 (Lose) "
+    }],
+    "Game 3": [{"Three Games Ago": "Boston Bruins 1 - Tampa Bay Lightning 7 (Lose) "
+    }],
+    "Game 4": [{"Four Games Ago": "Boston Bruins 3 - Tampa Bay Lightning 4 (Lose) "
+    }],
+    "Game 5": [{"Five Games Ago": "Boston Bruins 3 - Tampa Bay Lightning 2 (Victory) "
+    }]
+ },
+  "Carolina Hurricanes":{
+    "Game One": [{"Last Game": "Carolina Hurricanes 1 - Boston Bruins 2 (Lose)"
+    }],
+    "Game 2": [{"Two Games Ago": "Carolina Hurricanes 3 - Boston Bruins 4 (Lose)"
+    }],
+    "Game 3": [{"Three Games Ago": "Carolina Hurricanes 1 - Boston Bruins 3 (Lose)"
+    }],
+    "Game 4": [{"Four Games Ago": "Carolina Hurricanes 3 - Boston Bruins 2 (Victory)"
+    }],
+    "Game 5": [{"Five Games Ago": "Carolina Hurricanes 3 - Boston Bruins 4 (Lose)"
+    }]
+ },
+  "Edmonton Oilers":{
+    "Game One": [{"Last Game": "Edmonton Oilers 2 - Chicago Blackhawks 3 (Lose)"
+    }],
+    "Game 2": [{"Two Games Ago": "Edmonton Oilers 3 - Chicago Blackhawks 4 (Lose)"
+    }],
+    "Game 3": [{"Three Games Ago": "Edmonton Oilers 6 - Chicago Blackhawks 3 (Victory)"
+    }],
+    "Game 4": [{"Four Games Ago": "Edmonton Oilers 4 - Chicago Blackhawks 6 (Lose)"
+    }],
+    "Game 5": [{"Five Games Ago": "Edmonton Oilers 2 - Winnapeg Jets   (Lose)"
+    }]
+ }
+}
